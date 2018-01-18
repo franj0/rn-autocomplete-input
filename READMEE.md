@@ -1,4 +1,3 @@
-
 # react-native-autocomplete-input
 [![npm version](https://badge.fury.io/js/react-native-autocomplete-input.svg)](https://badge.fury.io/js/react-native-autocomplete-input)
 [![Build Status](https://travis-ci.org/l-urence/react-native-autocomplete-input.svg)](https://travis-ci.org/l-urence/react-native-autocomplete-input)
@@ -102,4 +101,3 @@ const styles = StyleSheet.create({
 
 ## Contribute
 Feel free to open issues or do a PR!
-# rn-autocomplete-input
